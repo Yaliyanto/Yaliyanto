@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaliyanto
 - 👀 I’m interested in something related to analysis & testing
-- 🌱 I’m currently learning Python, Katalon, & application
+- 🌱 I’m currently learning Python, Katalon
 - 📫 You can reach me through my Linkedin in  https://www.linkedin.com/in/yali-yanto/
 
 <!---
