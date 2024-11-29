@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Yaliyanto
-- 👀 I’m interested in something related to analysis & testing
-- 🌱 I’m currently learning Python, Katalon
-- 📫 You can reach me through my Linkedin in  https://www.linkedin.com/in/yali-yanto/
+# 👋 Hi, I'm Yaliyanto
 
-<!---
-Yaliyanto/Yaliyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🔍 I’m a **QA Automation Engineer** with a passion for testing and analysis.
+- 💡 Currently exploring advanced **automation tools** and frameworks.
+- 🌱 Learning **Katalon** and improving my skills in **Python**.
+
+## 🔧 Tech Stack
+- **Languages**: Python
+- **Tools**: Pytest, Appium, Nox App Player, Selenium, Playwright, Katalon Studio
+- **Frameworks**: Pytest
+
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/yali-yanto/)
+- Email: yaliyanto97@gmail.com
