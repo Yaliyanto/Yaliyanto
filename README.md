@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yaliyanto
+# 👋 Hi, I'm Yali Yanto
 
 ## 🚀 About Me
 - 🔍 I’m a **QA Automation Engineer** with a passion for testing and analysis.
